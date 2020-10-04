@@ -37,10 +37,10 @@ Plugin {
       id=menu://applications/System/lxterminal.desktop
     }
     Button {
-      id=menu://applications/System/Cnchi.desktop
+      id=menu://applications/System/calamares.desktop
     }
     Button {
-      id=menu://applications/Internet/midori.desktop
+      id=menu://applications/Internet/org.gnome.Epiphany.desktop
     }
     Button {
       id=menu://applications/DesktopSettings/nm-connection-editor.desktop
