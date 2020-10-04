@@ -37,7 +37,7 @@ Plugin {
       id=menu://applications/System/lxterminal.desktop
     }
     Button {
-      id=menu://applications/System/calamares.desktop
+      id=menu://applications/System/calamares-online.desktop
     }
     Button {
       id=menu://applications/Internet/org.gnome.Epiphany.desktop
