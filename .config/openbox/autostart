@@ -3,8 +3,8 @@ nitrogen --restore &
 lxpanel &
 nm-applet &
 timedatectl set-ntp true &
-lxterminal -e nano ~/.config/netinstall.txt &
+lxterminal -e nano ~/.local/share/calamares-online/netinstall.txt &
 /usr/bin/lxpolkit &
-
+sudo systemctl start NetworkManager
 
 
