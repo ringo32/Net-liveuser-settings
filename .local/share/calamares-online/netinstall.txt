@@ -1,0 +1,16 @@
+Welcome to the Endeavouros Netinstall.
+
+
+Most cut of install framework only mainpieces are Openbox && Lxpanel.
+for waiting time there is a browser falkon & ltris to play a game while installng
+
+Further there is no eos Welcome installed or Reflector-simple !
+
+Check the mirrors first !
+
+sudo reflector --age 5 --score 5 --protocol https --sort rate --save /etc/pacman.d/mirrorlist
+ and sudo pacman -Syy.
+ 
+ 
+ click on calamares icon to install the system.
+ 
