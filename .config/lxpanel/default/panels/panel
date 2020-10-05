@@ -40,10 +40,13 @@ Plugin {
       id=menu://applications/System/calamares-online.desktop
     }
     Button {
-      id=menu://applications/Internet/org.gnome.Epiphany.desktop
+      id=menu://applications/Internet/org.kde.falkon.desktop
     }
     Button {
       id=menu://applications/DesktopSettings/nm-connection-editor.desktop
+    Button {
+      id=menu://applications/game/ltris.desktop
+    }
     }
   }
 }

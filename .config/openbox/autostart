@@ -1,11 +1,12 @@
 sudo glib-compile-schemas /usr/share/glib-2.0/schemas &
 nitrogen --restore &
-#compton --config ~/.config/compton.conf -b &
 lxpanel &
 nm-applet &
 timedatectl set-ntp true &
 #pacman-boot &
 eos-welcome &
-reflector-simple &
-/usr/bin/lxpolkit
+lxterminal -e nano ~/.config/netinstall.txt
+/usr/bin/lxpolkit 
+
+
 
