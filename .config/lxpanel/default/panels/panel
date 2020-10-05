@@ -44,9 +44,9 @@ Plugin {
     }
     Button {
       id=menu://applications/DesktopSettings/nm-connection-editor.desktop
+    }
     Button {
       id=menu://applications/game/ltris.desktop
-    }
     }
   }
 }

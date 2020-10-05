@@ -2,7 +2,7 @@
 Type=Application
 Version=1.0
 Name=Install System
-GenericName=System Installer
+GenericName=System Installer-net
 Keywords=calamares;system;installer;
 TryExec=calamares
 Exec=sh ~/.local/share/calamares-online/calamares_online.sh

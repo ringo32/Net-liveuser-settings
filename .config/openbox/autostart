@@ -3,10 +3,8 @@ nitrogen --restore &
 lxpanel &
 nm-applet &
 timedatectl set-ntp true &
-#pacman-boot &
-eos-welcome &
 lxterminal -e nano ~/.config/netinstall.txt &
-/usr/bin/lxpolkit 
+/usr/bin/lxpolkit &
 
 
 
