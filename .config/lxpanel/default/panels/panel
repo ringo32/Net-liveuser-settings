@@ -31,22 +31,22 @@ Plugin {
   type=launchbar
   Config {
     Button {
-      id=menu://applications/System/shutdown.desktop
+      id=shutdown.desktop
     }
     Button {
-      id=menu://applications/System/lxterminal.desktop
+      id=lxterminal.desktop
     }
     Button {
-      id=menu://applications/System/calamares-online.desktop
+      id=calamares-online.desktop
     }
     Button {
-      id=menu://applications/Internet/org.kde.falkon.desktop
+      id=org.kde.falkon.desktop
     }
     Button {
-      id=menu://applications/DesktopSettings/nm-connection-editor.desktop
+      id=nm-connection-editor.desktop
     }
     Button {
-      id=menu://applications/game/ltris.desktop
+      id=ltris.desktop
     }
   }
 }
