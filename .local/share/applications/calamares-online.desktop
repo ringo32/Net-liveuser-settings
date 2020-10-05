@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=Application
 Version=1.0
-Name=Install System
+Name=Install System-net
 GenericName=System Installer-net
 Keywords=calamares;system;installer;
 TryExec=calamares
 Exec=sh ~/.local/share/calamares-online/calamares_online.sh
-Comment=Calamares — System Installer
+Comment=Calamares — System Installer-net
 Icon=calamares
 Terminal=false
 StartupNotify=true
