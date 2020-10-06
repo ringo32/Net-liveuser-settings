@@ -48,6 +48,9 @@ Plugin {
     Button {
       id=ltris.desktop
     }
+    Button {
+      id=gparted.desktop
+    }  
   }
 }
 Plugin {
