@@ -37,7 +37,7 @@ Plugin {
       id=lxterminal.desktop
     }
     Button {
-      id=calamares-online.desktop
+      id=calamares.desktop
     }
     Button {
       id=org.kde.falkon.desktop
